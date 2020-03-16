@@ -2,7 +2,7 @@ eg-css:
   version: 1.0
   css:
     base:
-      css/base/style.css: {}
+      css/base/styles.css: {}
     layout:
       css/layout/layout.css: {}
     component:
